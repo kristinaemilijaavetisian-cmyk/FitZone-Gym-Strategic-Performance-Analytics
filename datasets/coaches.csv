@@ -1,0 +1,61 @@
+coach_id,first_name,last_name,gender,email,phone,specialty,license_type,license_expiry,hire_date,years_experience,monthly_salary_eur,employment_type,rating,active
+1,Kristina,Butkus,F,kristina.butkus.c1@gmail.com,+370 637 72421,Nutrition,Yoga RYT-500,2026-05-03,2017-09-12,7,1583.66,Full-time,4.3,1
+2,Aiste,Miller,F,aiste.miller.c2@yahoo.com,+370 664 60928,CrossFit,NASM-CPT,2026-10-21,2020-07-29,4,1215.01,Full-time,4.1,1
+3,Egle,Paulauskas,F,egle.paulauskas.c3@yahoo.com,+370 689 83413,Functional Training,Yoga RYT-500,2028-12-13,2017-02-24,7,682.51,Part-time,3.2,1
+4,Noah,Urbonas,M,noah.urbonas.c4@hotmail.com,+370 610 80513,Yoga,ACE-CPT,2027-06-30,2015-12-26,9,666.96,Part-time,4.8,1
+5,Luna,Rimkus,F,luna.rimkus.c5@hotmail.com,+370 696 86351,Personal Training,Yoga RYT-200,2026-05-23,2015-08-19,9,1641.88,Full-time,3.9,1
+6,Aiste,Petrauskas,F,aiste.petrauskas.c6@gmail.com,+370 695 56930,Pilates,Level 2 PT,2026-06-09,2015-08-02,9,503.01,Freelance,4.8,1
+7,James,Tamosiunas,M,james.tamosiunas.c7@yahoo.com,+370 638 79622,Yoga,Level 1 PT,2027-09-22,2022-10-05,2,567.65,Freelance,4.8,1
+8,Lukas,Garcia,M,lukas.garcia.c8@gmail.com,+370 689 11075,Swimming,Level 2 PT,2028-09-27,2020-05-25,4,326.08,Freelance,3.2,1
+9,Gintare,Wilson,F,gintare.wilson.c9@yahoo.com,+370 698 21266,CrossFit,Level 3 PT,2025-11-02,2016-07-09,8,1137.54,Full-time,4.9,0
+10,Monika,Williams,F,monika.williams.c10@hotmail.com,+370 664 45101,Personal Training,Level 2 PT,2027-08-24,2023-03-19,1,823.84,Part-time,3.6,0
+11,Aria,Butkus,F,aria.butkus.c11@gmail.com,+370 604 12465,CrossFit,Level 1 PT,2025-07-04,2015-03-16,9,974.91,Part-time,3.2,0
+12,Ethan,Cesnavicius,M,ethan.cesnavicius.c12@hotmail.com,+370 636 70325,Functional Training,Yoga RYT-200,2028-11-24,2016-11-08,8,1204.28,Freelance,3.8,0
+13,Aria,Kavaliauskas,F,aria.kavaliauskas.c13@gmail.com,+370 667 52398,Cycling,NSCA-CPT,2026-07-30,2018-03-07,6,821.23,Freelance,4.5,0
+14,Ava,Jones,F,ava.jones.c14@hotmail.com,+370 664 80056,Pilates,ACE-CPT,2027-02-15,2023-10-05,1,959.07,Freelance,4.8,0
+15,Luna,Jankauskas,F,luna.jankauskas.c15@yahoo.com,+370 617 57128,Strength & Conditioning,NSCA-CPT,2028-04-20,2018-01-28,6,1319.91,Part-time,4.2,0
+16,Logan,Brown,M,logan.brown.c16@yahoo.com,+370 634 31095,Cycling,Level 1 PT,2028-10-20,2021-07-30,3,1235.95,Part-time,4.2,0
+17,Aiden,Williams,M,aiden.williams.c17@hotmail.com,+370 682 91287,Strength & Conditioning,Level 1 PT,2027-07-11,2018-05-15,6,976.35,Freelance,3.3,0
+18,Valdas,Kazlauskas,M,valdas.kazlauskas.c18@yahoo.com,+370 604 93464,Boxing,Yoga RYT-500,2026-06-07,2016-03-24,8,1271.41,Part-time,4.6,0
+19,Mantas,Petrauskas,M,mantas.petrauskas.c19@hotmail.com,+370 665 19377,CrossFit,CrossFit L2,2026-02-22,2021-03-05,3,1447.54,Part-time,4.5,0
+20,Lina,Butkus,F,lina.butkus.c20@mail.com,+370 649 96419,Nutrition,NSCA-CPT,2027-04-04,2020-06-13,4,805.2,Part-time,3.4,0
+21,Emma,Johnson,F,emma.johnson.c21@hotmail.com,+370 624 75944,Nutrition,NASM-CPT,2028-08-09,2018-09-16,6,1444.66,Full-time,3.7,0
+22,Rokas,Johnson,M,rokas.johnson.c22@mail.com,+370 657 48329,Boxing,CrossFit L2,2026-05-06,2016-08-19,8,1358.51,Part-time,3.2,0
+23,Saulius,Mackevicius,M,saulius.mackevicius.c23@outlook.com,+370 674 64923,Pilates,Yoga RYT-200,2027-12-12,2016-12-09,8,1072.2,Part-time,4.4,0
+24,Oliver,Stonkus,M,oliver.stonkus.c24@hotmail.com,+370 648 32223,Pilates,CrossFit L1,2028-02-10,2021-01-28,3,924.38,Part-time,4.5,0
+25,Inga,Stonkus,F,inga.stonkus.c25@mail.com,+370 602 85547,Yoga,CrossFit L1,2026-11-09,2020-09-24,4,1565.77,Freelance,3.7,0
+26,Rokas,Jonauskas,M,rokas.jonauskas.c26@yahoo.com,+370 621 16274,Functional Training,Yoga RYT-500,2026-08-26,2016-08-21,8,1069.28,Full-time,4.9,0
+27,Mia,Garcia,F,mia.garcia.c27@hotmail.com,+370 689 13199,Functional Training,Yoga RYT-500,2025-07-26,2016-07-14,8,874.2,Part-time,3.9,0
+28,Elijah,Taylor,M,elijah.taylor.c28@hotmail.com,+370 602 21902,Strength & Conditioning,Level 1 PT,2027-01-05,2020-06-01,4,877.37,Part-time,3.6,0
+29,Arnas,Jonauskas,M,arnas.jonauskas.c29@gmail.com,+370 684 96938,Personal Training,Level 3 PT,2026-01-02,2020-10-24,4,1478.0,Freelance,4.6,0
+30,Indre,Brown,F,indre.brown.c30@mail.com,+370 624 57985,Functional Training,CrossFit L2,2026-05-18,2021-02-11,3,1282.98,Full-time,4.0,0
+31,Monika,Stonkus,F,monika.stonkus.c31@gmail.com,+370 681 75128,Swimming,ACE-CPT,2027-11-06,2016-01-29,8,1445.7,Freelance,4.5,0
+32,Jolanta,Brown,F,jolanta.brown.c32@gmail.com,+370 605 13505,Nutrition,NSCA-CPT,2028-05-14,2018-07-12,6,1383.79,Freelance,3.1,0
+33,Noah,Brown,M,noah.brown.c33@yahoo.com,+370 677 73810,Swimming,ACE-CPT,2026-11-09,2022-07-28,2,1228.98,Full-time,4.5,0
+34,Jurgita,Daugirdas,F,jurgita.daugirdas.c34@hotmail.com,+370 661 63628,CrossFit,Level 3 PT,2025-03-03,2021-06-21,3,1578.49,Freelance,3.1,0
+35,Isabella,Tamosiunas,F,isabella.tamosiunas.c35@mail.com,+370 611 46673,Pilates,Yoga RYT-200,2025-07-16,2017-11-09,7,1102.83,Part-time,4.8,0
+36,Neringa,Davis,F,neringa.davis.c36@yahoo.com,+370 671 45300,Boxing,Level 2 PT,2028-11-24,2017-01-20,7,1241.63,Full-time,4.7,0
+37,Povilas,Kavaliauskas,M,povilas.kavaliauskas.c37@outlook.com,+370 692 54561,CrossFit,Level 1 PT,2028-02-13,2019-12-16,5,1463.52,Part-time,5.0,0
+38,Liam,Garcia,M,liam.garcia.c38@gmail.com,+370 690 67106,Pilates,NSCA-CPT,2027-03-22,2022-07-11,2,1294.82,Full-time,4.8,0
+39,Luna,Mackevicius,F,luna.mackevicius.c39@hotmail.com,+370 631 81234,Boxing,CrossFit L1,2025-08-03,2017-06-13,7,1489.37,Full-time,4.6,0
+40,Darius,Mackevicius,M,darius.mackevicius.c40@outlook.com,+370 679 26900,Swimming,Yoga RYT-200,2025-11-06,2019-09-20,5,1261.88,Freelance,4.6,0
+41,Ethan,Williams,M,ethan.williams.c41@hotmail.com,+370 603 36184,Swimming,Level 1 PT,2028-06-27,2019-11-04,5,1363.66,Full-time,4.8,0
+42,Arnas,Davis,M,arnas.davis.c42@outlook.com,+370 677 76127,Personal Training,Yoga RYT-200,2025-11-10,2021-07-31,3,836.66,Full-time,3.6,0
+43,Edvinas,Jankauskas,M,edvinas.jankauskas.c43@outlook.com,+370 650 48669,CrossFit,Yoga RYT-200,2026-04-21,2015-10-21,9,982.32,Freelance,3.9,0
+44,Daiva,Vaitkevicius,F,daiva.vaitkevicius.c44@gmail.com,+370 615 40275,Boxing,Level 1 PT,2027-12-20,2017-11-09,7,1031.51,Part-time,3.2,0
+45,Gintare,Stonkus,F,gintare.stonkus.c45@hotmail.com,+370 640 19772,Strength & Conditioning,ACE-CPT,2027-05-29,2023-07-22,1,863.83,Full-time,4.4,0
+46,Olivia,Smith,F,olivia.smith.c46@yahoo.com,+370 680 12532,Functional Training,Yoga RYT-200,2027-09-02,2018-02-17,6,986.23,Full-time,4.7,0
+47,Aiden,Brown,M,aiden.brown.c47@hotmail.com,+370 639 41063,Nutrition,Level 3 PT,2028-04-04,2021-05-24,3,880.8,Full-time,3.8,0
+48,Valdas,Johnson,M,valdas.johnson.c48@outlook.com,+370 610 15561,Strength & Conditioning,Yoga RYT-200,2026-04-15,2019-07-09,5,1022.38,Full-time,4.7,0
+49,Donatas,Jonauskas,M,donatas.jonauskas.c49@mail.com,+370 643 62541,Nutrition,Yoga RYT-500,2025-02-16,2020-02-29,4,1308.55,Part-time,4.4,0
+50,Daiva,Butkus,F,daiva.butkus.c50@gmail.com,+370 613 22200,Functional Training,ACE-CPT,2026-02-19,2015-02-04,9,1091.87,Full-time,3.5,0
+51,Erikas,Vasiliauskas,M,erikas.vasiliauskas.c51@outlook.com,+370 677 18182,CrossFit,CrossFit L1,2025-09-30,2023-09-17,1,1096.14,Part-time,4.6,0
+52,Mason,Jones,M,mason.jones.c52@hotmail.com,+370 617 37798,Personal Training,Yoga RYT-200,2025-12-07,2020-08-20,4,967.61,Full-time,5.0,0
+53,Arnas,Kazlauskas,M,arnas.kazlauskas.c53@yahoo.com,+370 649 12679,Strength & Conditioning,Yoga RYT-500,2028-11-14,2022-09-25,2,1013.58,Part-time,3.9,0
+54,Gintare,Petrauskas,F,gintare.petrauskas.c54@hotmail.com,+370 635 12172,Strength & Conditioning,Level 2 PT,2028-03-12,2021-05-17,3,1549.32,Freelance,4.0,0
+55,Inga,Jankauskas,F,inga.jankauskas.c55@gmail.com,+370 667 90257,Swimming,Level 3 PT,2025-05-23,2023-01-21,1,1318.43,Full-time,3.7,0
+56,Daiva,Tamosiunas,F,daiva.tamosiunas.c56@gmail.com,+370 684 98215,Functional Training,CrossFit L2,2028-08-23,2018-07-27,6,1287.3,Full-time,4.7,0
+57,Tomas,Urbonas,M,tomas.urbonas.c57@mail.com,+370 657 41115,Personal Training,NSCA-CPT,2026-09-03,2020-03-18,4,936.91,Part-time,4.0,0
+58,Noah,Balciunas,M,noah.balciunas.c58@yahoo.com,+370 670 75456,Nutrition,NSCA-CPT,2028-03-07,2016-09-12,8,1383.3,Full-time,3.3,0
+59,Erikas,Wilson,M,erikas.wilson.c59@hotmail.com,+370 604 60202,Cycling,NASM-CPT,2026-01-01,2021-10-04,3,930.72,Full-time,4.9,0
+60,Ethan,Jones,M,ethan.jones.c60@outlook.com,+370 655 35093,Cycling,Level 2 PT,2027-01-31,2022-01-22,2,1103.56,Full-time,4.3,0

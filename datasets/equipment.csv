@@ -1,0 +1,201 @@
+equipment_id,equipment_name,brand,serial_number,purchase_date,purchase_cost_eur,location_zone,status,last_maintenance_date,next_maintenance_date,warranty_expiry
+1,Bench Press,Life Fitness,SN-901130,2016-02-26,11903.18,Zone D – Group Classes,Active,2022-07-13,2022-10-11,2017-02-25
+2,Leg Press,Technogym,SN-188988,2021-10-23,2326.48,Zone D – Group Classes,Retired,2023-02-03,2023-08-02,2023-10-23
+3,Elliptical,Precor,SN-233351,2016-12-11,4162.09,Zone D – Group Classes,Active,2021-08-13,2022-02-09,2018-12-11
+4,Foam Roller,Technogym,SN-186227,2022-05-09,9935.9,Zone E – Functional,Active,2023-10-23,2024-01-21,2023-05-09
+5,Treadmill,Technogym,SN-274138,2022-03-31,7607.52,Zone C – Machines,Under Maintenance,2022-12-27,2023-12-27,2025-03-30
+6,TRX Suspension,Body-Solid,SN-593927,2017-07-01,9994.08,Zone C – Machines,Active,2017-12-24,2018-06-22,2019-07-01
+7,Stationary Bike,Precor,SN-218691,2016-01-20,9597.02,Zone A – Cardio,Active,2022-02-27,2023-02-27,2018-01-19
+8,Leg Press,Matrix,SN-981206,2022-10-26,4020.21,Zone E – Functional,Out of Service,2024-03-28,2024-06-26,2024-10-25
+9,Cable Machine,Concept2,SN-989746,2017-03-02,9364.46,Zone B – Free Weights,Active,2024-11-11,2025-02-09,2019-03-02
+10,TRX Suspension,NordicTrack,SN-535114,2021-04-23,4266.54,Zone C – Machines,Active,2022-02-25,2022-05-26,2024-04-22
+11,Stationary Bike,NordicTrack,SN-319403,2020-03-27,4662.84,Zone A – Cardio,Active,2024-06-13,2024-09-11,2021-03-27
+12,Pull-up Bar,Concept2,SN-148596,2016-10-21,9146.27,Zone D – Group Classes,Active,2017-11-18,2018-05-17,2019-10-21
+13,Foam Roller,Hammer Strength,SN-452549,2016-09-30,9918.92,Zone D – Group Classes,Active,2017-09-07,2018-09-07,2019-09-30
+14,Elliptical,Concept2,SN-672672,2015-12-25,1385.08,Zone B – Free Weights,Retired,2017-06-25,2017-12-22,2018-12-24
+15,Elliptical,Rogue,SN-702977,2017-03-09,10287.57,Zone A – Cardio,Active,2020-06-10,2020-09-08,2019-03-09
+16,Bench Press,Body-Solid,SN-872665,2017-12-26,4515.32,Zone D – Group Classes,Out of Service,2021-10-26,2022-10-26,2020-12-25
+17,Bench Press,Life Fitness,SN-207393,2019-03-24,2579.24,Zone D – Group Classes,Active,2020-11-29,2021-05-28,2020-03-23
+18,Kettlebell Set,Rogue,SN-825570,2015-06-26,11707.05,Zone C – Machines,Active,2018-01-15,2018-07-14,2017-06-25
+19,Battle Ropes,NordicTrack,SN-856146,2018-10-27,11757.99,Zone B – Free Weights,Active,2023-02-02,2023-08-01,2019-10-27
+20,Rowing Machine,Matrix,SN-342191,2015-07-13,3652.1,Zone D – Group Classes,Active,2016-12-28,2017-03-28,2017-07-12
+21,Stationary Bike,Hammer Strength,SN-188577,2018-06-28,8012.41,Zone E – Functional,Active,2021-01-16,2021-04-16,2020-06-27
+22,Smith Machine,Matrix,SN-743414,2022-01-11,979.53,Zone B – Free Weights,Active,2022-12-04,2023-03-04,2023-01-11
+23,Kettlebell Set,Technogym,SN-542155,2023-11-25,7025.25,Zone D – Group Classes,Active,2024-10-05,2025-10-05,2025-11-24
+24,Kettlebell Set,Life Fitness,SN-863043,2016-05-29,11424.15,Zone A – Cardio,Active,2016-12-09,2017-12-09,2019-05-29
+25,Dumbbell Rack,Life Fitness,SN-132383,2017-10-02,1117.96,Zone C – Machines,Active,2018-08-05,2018-11-03,2018-10-02
+26,Cable Machine,NordicTrack,SN-456945,2018-09-20,11097.49,Zone D – Group Classes,Out of Service,2020-10-20,2021-10-20,2021-09-19
+27,Pull-up Bar,NordicTrack,SN-475722,2019-06-29,446.25,Zone B – Free Weights,Active,2023-05-17,2023-08-15,2022-06-28
+28,Battle Ropes,Concept2,SN-341273,2017-01-13,9315.72,Zone E – Functional,Out of Service,2018-07-21,2019-01-17,2020-01-13
+29,Stationary Bike,Matrix,SN-422439,2021-09-25,4218.31,Zone C – Machines,Active,2021-10-11,2022-01-09,2024-09-24
+30,Kettlebell Set,Body-Solid,SN-474234,2015-04-02,7263.12,Zone D – Group Classes,Active,2020-10-06,2021-04-04,2017-04-01
+31,Dumbbell Rack,Matrix,SN-681046,2018-07-12,6946.98,Zone E – Functional,Active,2022-01-09,2022-04-09,2020-07-11
+32,Battle Ropes,Cybex,SN-459136,2017-08-24,10507.83,Zone B – Free Weights,Active,2018-06-18,2018-09-16,2019-08-24
+33,Kettlebell Set,Concept2,SN-378255,2021-07-11,4993.28,Zone D – Group Classes,Active,2021-11-22,2022-02-20,2022-07-11
+34,Barbell Set,Cybex,SN-812011,2021-04-04,2127.58,Zone C – Machines,Active,2022-02-21,2022-05-22,2023-04-04
+35,Pull-up Bar,Cybex,SN-650772,2018-02-14,9599.11,Zone C – Machines,Under Maintenance,2023-03-19,2024-03-18,2020-02-14
+36,Elliptical,Cybex,SN-285727,2023-09-23,11653.55,Zone A – Cardio,Active,2024-08-05,2025-02-01,2025-09-22
+37,Cable Machine,Matrix,SN-497865,2016-07-29,7119.82,Zone A – Cardio,Active,2023-07-15,2024-07-14,2017-07-29
+38,Foam Roller,Concept2,SN-235945,2017-04-11,3383.86,Zone D – Group Classes,Active,2023-10-09,2024-01-07,2019-04-11
+39,Rowing Machine,Precor,SN-868982,2022-06-09,11313.55,Zone E – Functional,Active,2023-07-20,2023-10-18,2024-06-08
+40,Battle Ropes,Life Fitness,SN-976572,2019-02-11,8747.84,Zone B – Free Weights,Active,2020-10-06,2021-04-04,2020-02-11
+41,TRX Suspension,Precor,SN-163201,2019-08-20,5408.52,Zone E – Functional,Retired,2024-02-01,2024-07-30,2021-08-19
+42,Dumbbell Rack,Precor,SN-367729,2021-04-19,10264.65,Zone D – Group Classes,Active,2021-06-12,2021-09-10,2022-04-19
+43,Stationary Bike,NordicTrack,SN-221375,2015-07-28,4255.2,Zone E – Functional,Active,2023-08-01,2024-01-28,2018-07-27
+44,Pull-up Bar,Matrix,SN-642110,2023-10-13,11431.86,Zone E – Functional,Under Maintenance,2024-09-04,2025-09-04,2026-10-12
+45,Bench Press,Precor,SN-752641,2023-02-02,3981.43,Zone E – Functional,Active,2023-09-05,2024-09-04,2026-02-01
+46,Leg Press,Concept2,SN-224745,2018-08-11,4486.31,Zone C – Machines,Active,2022-06-02,2022-08-31,2019-08-11
+47,Pull-up Bar,Hammer Strength,SN-514480,2017-12-21,5635.15,Zone D – Group Classes,Active,2022-08-14,2022-11-12,2019-12-21
+48,Barbell Set,Rogue,SN-850242,2022-12-02,11126.44,Zone B – Free Weights,Active,2025-01-11,2025-07-10,2025-12-01
+49,Leg Press,Hammer Strength,SN-187329,2016-05-19,10486.6,Zone C – Machines,Active,2019-10-20,2020-04-17,2018-05-19
+50,Cable Machine,Cybex,SN-503625,2018-11-05,612.69,Zone B – Free Weights,Active,2021-02-15,2022-02-15,2020-11-04
+51,Treadmill,Life Fitness,SN-231190,2018-08-09,4136.99,Zone B – Free Weights,Active,2022-03-29,2022-09-25,2021-08-08
+52,Pull-up Bar,Cybex,SN-687038,2022-09-13,7835.14,Zone A – Cardio,Active,2024-12-09,2025-12-09,2023-09-13
+53,Pull-up Bar,NordicTrack,SN-645679,2015-08-08,3091.54,Zone E – Functional,Active,2019-08-12,2020-08-11,2016-08-07
+54,Rowing Machine,Technogym,SN-272932,2021-05-06,11084.09,Zone C – Machines,Out of Service,2022-03-13,2023-03-13,2023-05-06
+55,TRX Suspension,Body-Solid,SN-656267,2019-10-14,5376.28,Zone B – Free Weights,Active,2022-01-25,2023-01-25,2020-10-13
+56,Bench Press,Cybex,SN-163297,2021-03-13,8548.38,Zone A – Cardio,Active,2022-02-13,2022-08-12,2024-03-12
+57,Kettlebell Set,Cybex,SN-708527,2022-06-09,2812.32,Zone D – Group Classes,Active,2023-10-14,2024-04-11,2025-06-08
+58,Elliptical,Matrix,SN-195160,2021-09-14,415.02,Zone B – Free Weights,Active,2023-08-31,2024-08-30,2022-09-14
+59,Cable Machine,Precor,SN-552619,2015-08-01,4189.58,Zone C – Machines,Active,2016-11-27,2017-02-25,2018-07-31
+60,Barbell Set,Hammer Strength,SN-555792,2017-06-30,5229.05,Zone C – Machines,Active,2022-09-16,2022-12-15,2018-06-30
+61,Rowing Machine,Life Fitness,SN-177638,2022-01-23,6277.24,Zone E – Functional,Active,2022-07-18,2023-01-14,2024-01-23
+62,TRX Suspension,Hammer Strength,SN-493193,2023-06-18,421.96,Zone C – Machines,Retired,2024-11-04,2025-02-02,2024-06-17
+63,Foam Roller,Concept2,SN-980616,2016-02-17,8899.48,Zone C – Machines,Out of Service,2020-07-29,2021-07-29,2018-02-16
+64,Foam Roller,NordicTrack,SN-398992,2018-07-23,4772.61,Zone C – Machines,Active,2018-07-26,2018-10-24,2021-07-22
+65,Rowing Machine,Concept2,SN-627321,2017-05-04,5658.47,Zone C – Machines,Under Maintenance,2021-09-24,2021-12-23,2020-05-03
+66,TRX Suspension,Concept2,SN-765077,2017-03-27,9561.15,Zone E – Functional,Active,2023-09-27,2023-12-26,2020-03-26
+67,Treadmill,Life Fitness,SN-132654,2019-07-23,7026.26,Zone D – Group Classes,Active,2023-11-28,2024-11-27,2021-07-22
+68,Cable Machine,Precor,SN-133542,2023-08-15,4264.91,Zone C – Machines,Active,2024-02-15,2025-02-14,2024-08-14
+69,TRX Suspension,Life Fitness,SN-553162,2023-05-17,11393.01,Zone B – Free Weights,Active,2024-07-25,2024-10-23,2024-05-16
+70,Cable Machine,Matrix,SN-130691,2020-03-01,6059.9,Zone A – Cardio,Out of Service,2023-09-28,2023-12-27,2023-03-01
+71,Dumbbell Rack,Cybex,SN-942950,2022-02-23,2361.82,Zone A – Cardio,Out of Service,2024-02-08,2024-05-08,2024-02-23
+72,Bench Press,Rogue,SN-869851,2021-05-24,7304.8,Zone E – Functional,Active,2024-10-31,2025-01-29,2022-05-24
+73,Elliptical,Hammer Strength,SN-909809,2015-07-13,4559.45,Zone E – Functional,Active,2018-06-22,2019-06-22,2017-07-12
+74,Bench Press,Concept2,SN-396309,2017-12-22,6762.33,Zone A – Cardio,Active,2019-11-21,2020-05-19,2019-12-22
+75,Pull-up Bar,Concept2,SN-585436,2020-08-07,274.9,Zone D – Group Classes,Under Maintenance,2021-03-08,2021-09-04,2022-08-07
+76,Leg Press,NordicTrack,SN-717384,2023-10-24,8437.93,Zone B – Free Weights,Active,2023-12-02,2024-05-30,2024-10-23
+77,Dumbbell Rack,Technogym,SN-759085,2022-03-30,7656.25,Zone A – Cardio,Active,2023-05-12,2023-11-08,2025-03-29
+78,TRX Suspension,Body-Solid,SN-823122,2018-02-28,8445.48,Zone B – Free Weights,Active,2018-04-25,2018-10-22,2021-02-27
+79,Barbell Set,NordicTrack,SN-204919,2022-10-03,5757.17,Zone C – Machines,Active,2024-05-20,2024-11-16,2024-10-02
+80,Bench Press,Body-Solid,SN-614150,2022-05-04,3763.35,Zone D – Group Classes,Active,2023-05-19,2024-05-18,2024-05-03
+81,Leg Press,Body-Solid,SN-900400,2018-10-08,3503.11,Zone D – Group Classes,Active,2021-06-25,2021-12-22,2020-10-07
+82,Cable Machine,Precor,SN-516357,2017-04-23,1395.69,Zone A – Cardio,Active,2024-12-23,2025-06-21,2020-04-22
+83,Smith Machine,NordicTrack,SN-950251,2016-04-10,9700.4,Zone C – Machines,Retired,2017-05-01,2017-10-28,2017-04-10
+84,Pull-up Bar,Rogue,SN-415415,2018-06-26,1588.5,Zone D – Group Classes,Active,2019-04-12,2019-10-09,2020-06-25
+85,Kettlebell Set,Precor,SN-281705,2019-07-25,3419.99,Zone C – Machines,Active,2023-02-20,2023-05-21,2020-07-24
+86,Battle Ropes,Concept2,SN-648862,2015-12-02,7964.69,Zone B – Free Weights,Active,2016-03-21,2016-06-19,2017-12-01
+87,Treadmill,Life Fitness,SN-194104,2021-05-30,3384.35,Zone B – Free Weights,Active,2025-02-23,2025-05-24,2022-05-30
+88,Kettlebell Set,Concept2,SN-197773,2022-04-03,5715.5,Zone C – Machines,Active,2024-10-17,2025-04-15,2025-04-02
+89,Cable Machine,Matrix,SN-297990,2019-11-22,10463.97,Zone E – Functional,Active,2020-06-06,2021-06-06,2022-11-21
+90,Kettlebell Set,Concept2,SN-261599,2015-10-05,4000.94,Zone C – Machines,Under Maintenance,2017-09-11,2018-03-10,2017-10-04
+91,Kettlebell Set,Rogue,SN-145298,2023-05-29,11628.08,Zone E – Functional,Active,2023-06-06,2024-06-05,2026-05-28
+92,Stationary Bike,Body-Solid,SN-827629,2022-03-21,3376.86,Zone C – Machines,Active,2024-04-02,2024-09-29,2024-03-20
+93,Treadmill,Matrix,SN-504929,2016-12-31,8211.54,Zone E – Functional,Out of Service,2024-08-03,2025-01-30,2019-12-31
+94,Dumbbell Rack,Matrix,SN-101574,2018-07-28,4987.15,Zone D – Group Classes,Under Maintenance,2021-11-05,2022-05-04,2019-07-28
+95,Battle Ropes,Precor,SN-834831,2021-05-30,1752.19,Zone A – Cardio,Active,2023-12-26,2024-03-25,2024-05-29
+96,Leg Press,Precor,SN-318193,2022-04-08,6203.53,Zone C – Machines,Under Maintenance,2024-09-20,2024-12-19,2024-04-07
+97,Smith Machine,Technogym,SN-675603,2018-12-06,5385.71,Zone B – Free Weights,Active,2021-07-07,2022-07-07,2021-12-05
+98,Kettlebell Set,Hammer Strength,SN-508297,2015-03-25,11462.03,Zone E – Functional,Active,2022-12-11,2023-03-11,2016-03-24
+99,Foam Roller,Matrix,SN-572630,2021-03-31,222.73,Zone E – Functional,Active,2022-12-11,2023-06-09,2024-03-30
+100,Foam Roller,Cybex,SN-747966,2016-06-24,6715.74,Zone C – Machines,Active,2023-11-14,2024-05-12,2019-06-24
+101,Cable Machine,Rogue,SN-442119,2018-04-16,851.72,Zone A – Cardio,Active,2023-06-04,2024-06-03,2020-04-15
+102,Treadmill,Body-Solid,SN-122088,2022-02-05,10748.63,Zone E – Functional,Under Maintenance,2023-01-12,2023-07-11,2023-02-05
+103,Barbell Set,Technogym,SN-114459,2017-10-17,334.27,Zone B – Free Weights,Active,2023-08-06,2023-11-04,2020-10-16
+104,Battle Ropes,Concept2,SN-245668,2015-02-05,5884.32,Zone C – Machines,Active,2019-10-27,2020-10-26,2018-02-04
+105,Rowing Machine,Matrix,SN-278299,2018-07-08,7393.5,Zone A – Cardio,Active,2020-10-14,2021-01-12,2021-07-07
+106,Battle Ropes,Hammer Strength,SN-959407,2016-02-28,446.37,Zone E – Functional,Under Maintenance,2020-08-18,2021-08-18,2017-02-27
+107,Rowing Machine,Precor,SN-419784,2023-01-15,2163.74,Zone C – Machines,Active,2023-06-17,2023-09-15,2024-01-15
+108,Pull-up Bar,Concept2,SN-775572,2023-08-18,6285.86,Zone A – Cardio,Active,2024-09-22,2024-12-21,2026-08-17
+109,Barbell Set,Matrix,SN-803025,2021-07-20,6594.93,Zone B – Free Weights,Active,2024-11-19,2025-05-18,2022-07-20
+110,Cable Machine,Body-Solid,SN-890960,2016-06-03,11285.35,Zone D – Group Classes,Active,2018-05-26,2019-05-26,2019-06-03
+111,Kettlebell Set,Life Fitness,SN-903298,2021-05-11,735.69,Zone E – Functional,Active,2023-11-07,2024-02-05,2022-05-11
+112,Foam Roller,Hammer Strength,SN-850445,2016-03-30,2875.96,Zone B – Free Weights,Active,2018-12-07,2019-12-07,2018-03-30
+113,Rowing Machine,Matrix,SN-601299,2018-11-13,3236.79,Zone A – Cardio,Active,2022-11-15,2023-05-14,2020-11-12
+114,Bench Press,Cybex,SN-909785,2020-10-14,7716.75,Zone C – Machines,Active,2024-03-17,2025-03-17,2021-10-14
+115,Bench Press,Precor,SN-133389,2022-05-17,8258.24,Zone B – Free Weights,Active,2023-05-03,2024-05-02,2025-05-16
+116,Bench Press,Cybex,SN-987734,2019-02-02,2701.88,Zone B – Free Weights,Active,2019-09-03,2020-09-02,2020-02-02
+117,TRX Suspension,Concept2,SN-358497,2023-06-07,7973.17,Zone A – Cardio,Active,2023-07-30,2024-01-26,2025-06-06
+118,Leg Press,Rogue,SN-897393,2020-06-19,9010.65,Zone C – Machines,Retired,2021-10-30,2022-04-28,2022-06-19
+119,Elliptical,Hammer Strength,SN-590531,2021-07-10,10876.81,Zone B – Free Weights,Active,2024-06-06,2024-12-03,2023-07-10
+120,Dumbbell Rack,Technogym,SN-293302,2017-06-29,6086.04,Zone B – Free Weights,Active,2023-02-12,2023-05-13,2020-06-28
+121,Leg Press,NordicTrack,SN-866935,2021-08-22,861.02,Zone C – Machines,Active,2023-04-10,2024-04-09,2023-08-22
+122,Kettlebell Set,Concept2,SN-225618,2019-04-05,2191.48,Zone B – Free Weights,Active,2020-06-07,2021-06-07,2020-04-04
+123,Cable Machine,Concept2,SN-137726,2020-03-04,4929.61,Zone E – Functional,Under Maintenance,2023-07-27,2024-07-26,2022-03-04
+124,Battle Ropes,Rogue,SN-443642,2016-10-10,7952.85,Zone D – Group Classes,Active,2018-07-26,2019-01-22,2018-10-10
+125,Elliptical,Rogue,SN-992430,2023-01-14,1984.49,Zone A – Cardio,Active,2023-09-22,2024-03-20,2025-01-13
+126,Bench Press,Rogue,SN-408581,2018-08-08,8383.74,Zone D – Group Classes,Active,2022-04-21,2022-10-18,2019-08-08
+127,TRX Suspension,Cybex,SN-373072,2015-06-26,8642.58,Zone E – Functional,Under Maintenance,2020-03-05,2020-09-01,2018-06-25
+128,Elliptical,Body-Solid,SN-611915,2021-04-27,5993.27,Zone D – Group Classes,Active,2021-07-22,2022-07-22,2024-04-26
+129,Battle Ropes,Matrix,SN-400277,2022-12-25,2973.5,Zone E – Functional,Under Maintenance,2024-06-04,2024-09-02,2023-12-25
+130,Foam Roller,Technogym,SN-687264,2022-07-25,222.86,Zone B – Free Weights,Active,2024-06-16,2025-06-16,2023-07-25
+131,Kettlebell Set,Hammer Strength,SN-928383,2020-12-24,9396.9,Zone A – Cardio,Retired,2023-09-02,2023-12-01,2021-12-24
+132,Stationary Bike,Concept2,SN-997629,2021-12-02,9372.11,Zone A – Cardio,Active,2023-01-03,2023-04-03,2023-12-02
+133,Stationary Bike,Rogue,SN-871392,2018-01-08,9957.27,Zone B – Free Weights,Active,2020-04-29,2020-07-28,2021-01-07
+134,Battle Ropes,Cybex,SN-677587,2021-05-28,540.29,Zone E – Functional,Active,2023-06-23,2024-06-22,2024-05-27
+135,Kettlebell Set,Hammer Strength,SN-692604,2021-02-12,6585.17,Zone E – Functional,Active,2021-09-21,2022-09-21,2022-02-12
+136,TRX Suspension,Rogue,SN-650694,2022-10-14,7083.02,Zone A – Cardio,Active,2023-04-13,2024-04-12,2023-10-14
+137,TRX Suspension,Concept2,SN-515346,2020-11-07,8021.22,Zone B – Free Weights,Out of Service,2022-03-03,2023-03-03,2021-11-07
+138,Cable Machine,Body-Solid,SN-970825,2022-01-20,2306.53,Zone D – Group Classes,Active,2022-04-09,2022-10-06,2023-01-20
+139,TRX Suspension,Body-Solid,SN-706915,2015-06-15,6605.55,Zone A – Cardio,Out of Service,2024-01-26,2024-04-25,2017-06-14
+140,Barbell Set,Body-Solid,SN-832449,2021-02-11,660.98,Zone E – Functional,Out of Service,2023-04-26,2023-10-23,2024-02-11
+141,Cable Machine,NordicTrack,SN-167379,2019-07-25,3416.28,Zone A – Cardio,Active,2024-04-23,2024-10-20,2020-07-24
+142,Rowing Machine,Rogue,SN-916002,2015-06-23,3300.13,Zone B – Free Weights,Active,2016-08-29,2017-02-25,2017-06-22
+143,Pull-up Bar,Technogym,SN-650951,2017-07-25,1409.24,Zone D – Group Classes,Active,2017-09-23,2018-09-23,2020-07-24
+144,Rowing Machine,Rogue,SN-941424,2018-05-19,394.7,Zone B – Free Weights,Active,2020-05-06,2020-08-04,2020-05-18
+145,Rowing Machine,Rogue,SN-916398,2016-10-10,4257.34,Zone B – Free Weights,Active,2018-01-22,2019-01-22,2017-10-10
+146,Kettlebell Set,Body-Solid,SN-502346,2022-11-11,3588.79,Zone B – Free Weights,Active,2023-08-10,2023-11-08,2024-11-10
+147,Bench Press,Matrix,SN-587717,2020-03-07,9576.57,Zone D – Group Classes,Active,2022-08-23,2023-02-19,2023-03-07
+148,Treadmill,Hammer Strength,SN-297857,2021-05-31,3446.3,Zone C – Machines,Retired,2024-04-07,2025-04-07,2024-05-30
+149,Battle Ropes,Technogym,SN-743568,2018-09-19,10779.83,Zone D – Group Classes,Under Maintenance,2023-08-27,2024-02-23,2019-09-19
+150,Battle Ropes,NordicTrack,SN-628446,2017-11-29,11462.33,Zone D – Group Classes,Active,2025-03-01,2026-03-01,2020-11-28
+151,Dumbbell Rack,Life Fitness,SN-900359,2018-04-04,7448.13,Zone D – Group Classes,Active,2022-09-30,2022-12-29,2019-04-04
+152,TRX Suspension,NordicTrack,SN-102121,2019-05-15,3048.91,Zone E – Functional,Out of Service,2019-08-02,2020-01-29,2020-05-14
+153,TRX Suspension,Rogue,SN-666679,2023-10-09,577.11,Zone B – Free Weights,Retired,2023-10-15,2024-01-13,2024-10-08
+154,Bench Press,Cybex,SN-174132,2020-10-24,5021.73,Zone E – Functional,Active,2021-09-09,2022-09-09,2023-10-24
+155,Rowing Machine,Hammer Strength,SN-159297,2023-05-10,10956.34,Zone E – Functional,Active,2023-06-27,2023-09-25,2024-05-09
+156,Bench Press,Cybex,SN-779962,2017-08-03,1971.04,Zone C – Machines,Out of Service,2024-08-05,2025-08-05,2019-08-03
+157,Cable Machine,Cybex,SN-605637,2022-05-26,8772.36,Zone B – Free Weights,Active,2024-05-05,2024-11-01,2024-05-25
+158,Battle Ropes,Rogue,SN-956106,2022-12-14,3623.96,Zone D – Group Classes,Out of Service,2024-08-19,2024-11-17,2023-12-14
+159,Leg Press,Concept2,SN-506308,2020-02-10,5014.84,Zone D – Group Classes,Active,2021-11-09,2022-02-07,2023-02-09
+160,Barbell Set,Body-Solid,SN-226466,2023-05-13,10434.19,Zone B – Free Weights,Active,2024-02-04,2024-05-04,2026-05-12
+161,Elliptical,Concept2,SN-237271,2020-12-18,5541.2,Zone C – Machines,Retired,2021-11-21,2022-02-19,2023-12-18
+162,TRX Suspension,Rogue,SN-691106,2017-04-16,6009.62,Zone A – Cardio,Active,2017-08-15,2018-08-15,2018-04-16
+163,Rowing Machine,Body-Solid,SN-327812,2020-08-11,11368.24,Zone C – Machines,Under Maintenance,2021-01-15,2021-04-15,2023-08-11
+164,Bench Press,Life Fitness,SN-135234,2023-11-01,4511.02,Zone B – Free Weights,Retired,2024-08-11,2024-11-09,2025-10-31
+165,TRX Suspension,Life Fitness,SN-737361,2016-12-02,4030.66,Zone B – Free Weights,Active,2018-10-31,2019-10-31,2018-12-02
+166,Cable Machine,Precor,SN-610945,2016-06-18,10409.76,Zone B – Free Weights,Under Maintenance,2025-02-16,2026-02-16,2017-06-18
+167,Elliptical,Matrix,SN-472072,2020-08-10,8742.35,Zone B – Free Weights,Active,2022-01-12,2022-04-12,2022-08-10
+168,Elliptical,Concept2,SN-264255,2017-10-02,6837.65,Zone E – Functional,Under Maintenance,2019-11-03,2020-02-01,2018-10-02
+169,Leg Press,Body-Solid,SN-551983,2016-09-20,10988.32,Zone D – Group Classes,Active,2019-12-28,2020-06-25,2017-09-20
+170,Kettlebell Set,Cybex,SN-152641,2017-02-28,2199.99,Zone E – Functional,Active,2018-04-03,2018-09-30,2019-02-28
+171,Foam Roller,Concept2,SN-941405,2018-12-05,5944.94,Zone C – Machines,Active,2019-10-30,2020-01-28,2020-12-04
+172,Kettlebell Set,Body-Solid,SN-618695,2023-04-06,8613.25,Zone E – Functional,Active,2025-02-02,2025-05-03,2024-04-05
+173,Rowing Machine,Technogym,SN-633464,2021-03-29,1005.76,Zone C – Machines,Retired,2022-11-14,2023-05-13,2024-03-28
+174,Smith Machine,Life Fitness,SN-697666,2019-10-14,9514.35,Zone C – Machines,Active,2021-09-30,2021-12-29,2021-10-13
+175,Battle Ropes,NordicTrack,SN-988643,2021-01-19,4294.42,Zone B – Free Weights,Active,2022-09-04,2023-09-04,2022-01-19
+176,Rowing Machine,Concept2,SN-574787,2016-02-11,4490.22,Zone E – Functional,Active,2016-08-21,2017-02-17,2017-02-10
+177,Barbell Set,Hammer Strength,SN-149612,2016-07-24,9467.68,Zone B – Free Weights,Out of Service,2020-05-15,2020-11-11,2018-07-24
+178,Barbell Set,Matrix,SN-902464,2021-12-02,9778.79,Zone B – Free Weights,Retired,2023-04-24,2024-04-23,2022-12-02
+179,Dumbbell Rack,Hammer Strength,SN-430143,2019-03-08,8193.9,Zone A – Cardio,Active,2022-03-14,2022-09-10,2020-03-07
+180,Smith Machine,Cybex,SN-919578,2020-01-30,6641.17,Zone D – Group Classes,Active,2023-04-24,2023-10-21,2022-01-29
+181,Barbell Set,Rogue,SN-645428,2016-08-31,4626.92,Zone B – Free Weights,Active,2019-05-01,2020-04-30,2018-08-31
+182,Treadmill,Body-Solid,SN-546916,2018-08-01,2578.42,Zone B – Free Weights,Active,2019-06-26,2019-12-23,2020-07-31
+183,Dumbbell Rack,Technogym,SN-581281,2021-12-20,7384.82,Zone B – Free Weights,Active,2023-08-24,2023-11-22,2022-12-20
+184,Leg Press,Cybex,SN-658690,2016-11-26,1514.09,Zone A – Cardio,Active,2023-10-29,2024-10-28,2017-11-26
+185,Barbell Set,Matrix,SN-724001,2018-03-16,3159.87,Zone A – Cardio,Out of Service,2022-03-12,2022-09-08,2021-03-15
+186,TRX Suspension,Hammer Strength,SN-883766,2019-01-23,428.09,Zone E – Functional,Active,2023-05-08,2023-11-04,2021-01-22
+187,Battle Ropes,Matrix,SN-663864,2015-10-18,6933.47,Zone B – Free Weights,Under Maintenance,2022-12-18,2023-06-16,2018-10-17
+188,TRX Suspension,NordicTrack,SN-345472,2019-07-03,1778.43,Zone C – Machines,Out of Service,2019-11-19,2020-11-18,2020-07-02
+189,Pull-up Bar,Body-Solid,SN-298583,2022-06-09,10562.13,Zone D – Group Classes,Active,2023-10-21,2024-04-18,2025-06-08
+190,Leg Press,Technogym,SN-597626,2023-03-31,6558.85,Zone A – Cardio,Active,2023-05-17,2023-11-13,2025-03-30
+191,Bench Press,Hammer Strength,SN-735680,2017-07-26,8436.44,Zone B – Free Weights,Active,2021-05-07,2022-05-07,2018-07-26
+192,Treadmill,Concept2,SN-806048,2019-09-25,10584.85,Zone C – Machines,Active,2024-12-10,2025-03-10,2020-09-24
+193,Dumbbell Rack,Body-Solid,SN-209039,2022-03-26,5472.91,Zone B – Free Weights,Active,2022-08-29,2023-02-25,2023-03-26
+194,Bench Press,Hammer Strength,SN-451282,2020-11-30,7382.49,Zone E – Functional,Under Maintenance,2023-12-01,2024-11-30,2021-11-30
+195,Pull-up Bar,Concept2,SN-979896,2020-04-20,8066.63,Zone A – Cardio,Active,2023-08-12,2024-08-11,2022-04-20
+196,Smith Machine,Life Fitness,SN-209982,2020-10-10,7561.89,Zone E – Functional,Active,2024-05-02,2024-07-31,2023-10-10
+197,Kettlebell Set,Rogue,SN-303571,2021-03-17,7798.36,Zone B – Free Weights,Active,2023-09-15,2024-03-13,2024-03-16
+198,Bench Press,Cybex,SN-600183,2020-01-28,3661.8,Zone D – Group Classes,Active,2022-12-05,2023-06-03,2021-01-27
+199,Kettlebell Set,Hammer Strength,SN-678934,2020-11-03,9579.18,Zone E – Functional,Active,2025-02-26,2026-02-26,2022-11-03
+200,Kettlebell Set,Precor,SN-274726,2021-01-22,3546.21,Zone D – Group Classes,Active,2023-02-25,2023-08-24,2023-01-22

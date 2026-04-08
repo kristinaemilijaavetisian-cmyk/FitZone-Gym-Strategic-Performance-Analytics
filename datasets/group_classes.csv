@@ -1,0 +1,301 @@
+class_id,class_name,coach_id,day_of_week,start_time,duration_minutes,capacity,enrolled_count,room,difficulty,price_per_session_eur,active
+1,Strength Circuit,30,Wednesday,08:30:00,75,10,1,Studio 1,Beginner,12,1
+2,Strength Circuit,35,Sunday,15:00:00,90,20,5,Studio 1,Advanced,0,1
+3,Morning Yoga,3,Friday,11:30:00,75,26,4,Studio 2,Beginner,8,1
+4,Strength Circuit,4,Saturday,12:30:00,90,16,13,Studio 2,Intermediate,0,1
+5,HIIT Blast,17,Friday,09:00:00,50,18,17,Studio 1,Advanced,10,1
+6,HIIT Blast,25,Wednesday,20:00:00,90,12,5,Studio 2,Beginner,8,1
+7,Stretch & Relax,22,Friday,13:00:00,45,18,6,Outdoor,Beginner,0,1
+8,Morning Yoga,2,Monday,09:00:00,75,25,2,Main Floor,All Levels,0,1
+9,Strength Circuit,47,Sunday,10:30:00,90,8,8,Outdoor,Beginner,8,0
+10,Stretch & Relax,60,Sunday,12:30:00,45,12,7,Studio 2,Advanced,0,1
+11,Aqua Aerobics,11,Monday,11:00:00,60,10,2,Studio 2,All Levels,5,0
+12,Aqua Aerobics,6,Thursday,19:30:00,75,13,7,Studio 1,All Levels,0,1
+13,Spin Cycle,15,Friday,06:00:00,45,27,24,Main Floor,Beginner,0,1
+14,Morning Yoga,36,Friday,09:30:00,90,17,9,Main Floor,Advanced,10,1
+15,HIIT Blast,43,Sunday,19:00:00,45,18,0,Studio 2,Intermediate,0,1
+16,Aqua Aerobics,23,Thursday,12:00:00,45,18,7,Main Floor,Advanced,0,1
+17,Boxing Basics,42,Monday,10:00:00,75,28,7,Pool,All Levels,12,1
+18,CrossFit WOD,50,Tuesday,15:30:00,50,29,18,Studio 2,All Levels,10,1
+19,Zumba Party,48,Saturday,15:30:00,50,13,12,Pool,Advanced,5,1
+20,Evening Pilates,12,Saturday,15:00:00,60,8,1,Outdoor,Advanced,0,1
+21,Spin Cycle,34,Monday,07:30:00,60,18,18,Pool,All Levels,0,1
+22,Zumba Party,25,Wednesday,16:00:00,60,27,27,Pool,Intermediate,0,1
+23,HIIT Blast,47,Saturday,13:00:00,75,9,3,Studio 1,Intermediate,12,1
+24,Evening Pilates,11,Tuesday,20:00:00,45,8,4,Studio 1,Advanced,8,1
+25,CrossFit WOD,33,Monday,06:00:00,90,27,15,Pool,All Levels,5,1
+26,HIIT Blast,38,Thursday,19:00:00,50,19,10,Studio 2,Beginner,12,1
+27,Stretch & Relax,8,Monday,06:30:00,75,16,9,Main Floor,Intermediate,10,1
+28,Strength Circuit,60,Sunday,15:00:00,75,27,6,Studio 1,All Levels,5,1
+29,Spin Cycle,12,Wednesday,18:00:00,90,28,15,Outdoor,Advanced,0,1
+30,Zumba Party,5,Thursday,13:00:00,45,19,4,Pool,Intermediate,12,1
+31,Stretch & Relax,11,Tuesday,20:00:00,60,22,12,Pool,Intermediate,10,1
+32,Spin Cycle,50,Tuesday,17:30:00,50,17,6,Studio 2,Advanced,0,1
+33,Spin Cycle,48,Thursday,09:00:00,50,14,4,Studio 1,Beginner,5,0
+34,Stretch & Relax,38,Wednesday,20:00:00,50,21,8,Outdoor,Beginner,10,0
+35,Boxing Basics,49,Saturday,08:00:00,50,17,2,Outdoor,All Levels,0,0
+36,Zumba Party,3,Sunday,10:00:00,50,11,11,Studio 1,Advanced,0,1
+37,Spin Cycle,52,Sunday,10:00:00,90,9,9,Main Floor,Beginner,0,1
+38,Zumba Party,47,Saturday,14:30:00,60,23,12,Pool,Advanced,0,1
+39,Stretch & Relax,43,Thursday,14:30:00,75,13,13,Pool,Advanced,12,1
+40,Aqua Aerobics,12,Tuesday,13:30:00,60,17,9,Studio 1,Beginner,10,1
+41,Stretch & Relax,37,Wednesday,15:30:00,50,19,4,Studio 2,Intermediate,0,1
+42,CrossFit WOD,33,Tuesday,14:00:00,60,9,9,Outdoor,All Levels,0,1
+43,Spin Cycle,3,Saturday,11:30:00,75,13,11,Main Floor,Intermediate,0,1
+44,Spin Cycle,52,Friday,12:00:00,75,9,4,Studio 2,Intermediate,0,0
+45,Spin Cycle,17,Saturday,13:00:00,60,18,11,Main Floor,All Levels,12,1
+46,HIIT Blast,30,Wednesday,14:00:00,75,9,6,Main Floor,Advanced,5,0
+47,Aqua Aerobics,35,Friday,07:30:00,90,28,25,Outdoor,All Levels,0,1
+48,HIIT Blast,45,Wednesday,14:00:00,60,28,7,Pool,Intermediate,10,1
+49,HIIT Blast,37,Thursday,12:00:00,90,30,6,Studio 1,All Levels,5,1
+50,Boxing Basics,8,Sunday,11:30:00,45,20,2,Studio 1,All Levels,5,0
+51,HIIT Blast,10,Friday,12:30:00,45,28,17,Studio 1,Advanced,10,1
+52,Evening Pilates,45,Saturday,14:30:00,50,8,1,Outdoor,All Levels,0,0
+53,Spin Cycle,47,Saturday,07:30:00,75,13,6,Studio 2,Advanced,0,1
+54,Evening Pilates,55,Sunday,07:30:00,90,9,5,Main Floor,All Levels,10,1
+55,CrossFit WOD,32,Sunday,12:00:00,45,16,7,Outdoor,Advanced,12,1
+56,CrossFit WOD,2,Saturday,09:00:00,75,26,23,Studio 1,Beginner,12,1
+57,Stretch & Relax,32,Wednesday,15:00:00,45,15,4,Studio 2,Intermediate,0,0
+58,HIIT Blast,27,Friday,15:00:00,60,14,13,Main Floor,Advanced,0,0
+59,Evening Pilates,11,Saturday,06:30:00,75,10,7,Studio 2,Beginner,0,1
+60,Evening Pilates,3,Friday,14:30:00,90,20,14,Studio 2,Advanced,0,1
+61,Aqua Aerobics,34,Tuesday,07:00:00,50,17,9,Studio 1,Intermediate,5,1
+62,Aqua Aerobics,51,Thursday,09:30:00,45,22,0,Studio 2,Advanced,12,0
+63,Morning Yoga,23,Thursday,20:30:00,60,8,5,Main Floor,Beginner,12,1
+64,CrossFit WOD,60,Saturday,15:30:00,50,29,12,Main Floor,Beginner,0,1
+65,Zumba Party,54,Friday,16:00:00,75,18,7,Studio 2,Beginner,8,1
+66,HIIT Blast,57,Wednesday,11:30:00,45,16,11,Studio 2,Intermediate,0,1
+67,Morning Yoga,58,Tuesday,07:00:00,75,23,12,Main Floor,All Levels,0,1
+68,Zumba Party,15,Wednesday,20:30:00,60,22,18,Studio 1,Beginner,8,1
+69,Morning Yoga,6,Sunday,18:00:00,45,17,4,Main Floor,Intermediate,12,1
+70,Evening Pilates,45,Monday,16:30:00,50,14,13,Pool,All Levels,12,0
+71,Stretch & Relax,18,Tuesday,11:00:00,60,16,5,Outdoor,All Levels,0,0
+72,Aqua Aerobics,48,Friday,19:00:00,50,24,13,Studio 2,Advanced,0,1
+73,Stretch & Relax,42,Wednesday,16:30:00,90,13,2,Studio 1,Intermediate,0,1
+74,Stretch & Relax,18,Monday,11:30:00,75,23,3,Pool,Intermediate,0,1
+75,CrossFit WOD,55,Saturday,20:00:00,45,10,10,Pool,Beginner,12,1
+76,Morning Yoga,11,Tuesday,09:30:00,50,29,8,Outdoor,Advanced,5,0
+77,Morning Yoga,4,Tuesday,07:30:00,75,14,5,Studio 2,Intermediate,8,1
+78,Spin Cycle,55,Thursday,19:30:00,90,26,8,Main Floor,Advanced,10,1
+79,Boxing Basics,49,Sunday,17:00:00,50,26,15,Pool,Advanced,5,1
+80,Strength Circuit,53,Thursday,13:00:00,75,15,5,Pool,Advanced,0,1
+81,HIIT Blast,56,Friday,16:30:00,45,10,8,Main Floor,All Levels,8,1
+82,Morning Yoga,47,Friday,07:00:00,60,17,5,Pool,Beginner,8,1
+83,Morning Yoga,43,Sunday,11:30:00,90,17,14,Studio 1,Beginner,12,0
+84,Boxing Basics,38,Saturday,10:30:00,75,16,1,Pool,Beginner,0,0
+85,Zumba Party,58,Friday,20:00:00,75,21,15,Pool,Intermediate,5,1
+86,Boxing Basics,22,Thursday,08:00:00,50,24,7,Pool,Advanced,8,0
+87,HIIT Blast,60,Tuesday,08:00:00,45,11,5,Outdoor,Advanced,8,1
+88,Stretch & Relax,38,Thursday,17:30:00,75,18,18,Studio 1,Intermediate,5,1
+89,Spin Cycle,17,Sunday,20:30:00,60,25,21,Studio 1,Advanced,8,1
+90,Aqua Aerobics,35,Saturday,17:00:00,90,26,26,Outdoor,Intermediate,5,1
+91,Aqua Aerobics,25,Tuesday,20:30:00,50,27,3,Pool,Intermediate,10,1
+92,Strength Circuit,7,Saturday,16:30:00,75,15,2,Pool,Advanced,8,1
+93,Spin Cycle,42,Tuesday,06:30:00,45,21,16,Outdoor,Beginner,0,1
+94,HIIT Blast,10,Tuesday,12:30:00,45,16,8,Outdoor,All Levels,12,1
+95,Aqua Aerobics,18,Friday,16:30:00,60,11,5,Studio 1,Advanced,5,1
+96,Aqua Aerobics,52,Wednesday,17:30:00,45,10,9,Studio 1,All Levels,5,1
+97,CrossFit WOD,11,Thursday,10:00:00,60,10,4,Pool,Beginner,0,0
+98,HIIT Blast,32,Friday,16:00:00,75,24,21,Studio 1,Beginner,0,1
+99,Zumba Party,58,Tuesday,20:00:00,90,19,14,Outdoor,Beginner,0,1
+100,CrossFit WOD,52,Wednesday,12:00:00,45,28,27,Studio 2,Advanced,5,1
+101,Stretch & Relax,55,Tuesday,12:00:00,45,26,18,Pool,Beginner,10,1
+102,Stretch & Relax,38,Sunday,06:30:00,50,25,13,Outdoor,Advanced,12,1
+103,Zumba Party,30,Saturday,06:30:00,60,8,3,Studio 2,Intermediate,0,0
+104,HIIT Blast,23,Friday,20:30:00,75,26,16,Outdoor,Beginner,10,1
+105,Zumba Party,48,Monday,08:00:00,50,21,9,Studio 2,Advanced,10,1
+106,Spin Cycle,56,Sunday,13:00:00,75,19,19,Studio 2,All Levels,0,1
+107,Spin Cycle,23,Thursday,07:00:00,50,12,6,Outdoor,All Levels,0,1
+108,CrossFit WOD,38,Sunday,15:30:00,75,23,3,Pool,Advanced,10,1
+109,Strength Circuit,51,Wednesday,12:00:00,60,9,0,Main Floor,Advanced,10,1
+110,Strength Circuit,33,Saturday,06:00:00,75,24,20,Main Floor,Advanced,10,0
+111,HIIT Blast,42,Friday,11:00:00,50,21,14,Pool,All Levels,5,1
+112,Spin Cycle,4,Saturday,12:00:00,90,27,6,Outdoor,Intermediate,0,1
+113,Strength Circuit,49,Monday,16:30:00,75,8,3,Pool,Intermediate,12,1
+114,Stretch & Relax,15,Saturday,14:00:00,50,20,17,Main Floor,Beginner,8,1
+115,HIIT Blast,49,Monday,13:30:00,75,21,10,Studio 1,Intermediate,0,1
+116,Boxing Basics,27,Thursday,11:30:00,75,21,10,Studio 2,All Levels,12,1
+117,Evening Pilates,50,Tuesday,20:00:00,50,20,6,Studio 2,Intermediate,0,0
+118,Spin Cycle,5,Thursday,15:00:00,45,13,1,Pool,All Levels,10,0
+119,Evening Pilates,4,Tuesday,09:00:00,60,14,7,Main Floor,Intermediate,12,1
+120,Aqua Aerobics,33,Monday,07:00:00,90,23,22,Studio 2,Intermediate,10,1
+121,Spin Cycle,18,Thursday,06:30:00,60,8,1,Main Floor,Advanced,12,1
+122,Stretch & Relax,5,Saturday,10:00:00,45,25,10,Studio 2,Intermediate,10,1
+123,Zumba Party,38,Friday,09:00:00,75,21,18,Outdoor,Intermediate,0,1
+124,Spin Cycle,58,Tuesday,14:00:00,50,8,0,Main Floor,All Levels,12,1
+125,Evening Pilates,36,Wednesday,17:00:00,60,14,11,Main Floor,All Levels,0,1
+126,Boxing Basics,7,Friday,07:00:00,45,19,13,Studio 1,All Levels,12,0
+127,CrossFit WOD,57,Sunday,20:00:00,50,27,9,Studio 2,Beginner,12,1
+128,HIIT Blast,32,Friday,09:00:00,45,24,18,Studio 1,Beginner,12,1
+129,Morning Yoga,6,Thursday,08:00:00,50,24,22,Studio 2,All Levels,5,0
+130,Morning Yoga,21,Monday,15:30:00,60,22,16,Studio 1,Beginner,10,0
+131,Zumba Party,23,Tuesday,11:00:00,75,14,4,Pool,Intermediate,5,1
+132,HIIT Blast,45,Wednesday,14:30:00,75,17,2,Main Floor,Beginner,0,1
+133,Spin Cycle,57,Monday,06:00:00,60,12,8,Main Floor,Beginner,10,0
+134,Spin Cycle,56,Saturday,15:30:00,90,8,4,Studio 2,Intermediate,5,0
+135,CrossFit WOD,27,Wednesday,06:30:00,90,8,2,Main Floor,Intermediate,0,1
+136,HIIT Blast,38,Wednesday,10:00:00,90,20,5,Main Floor,All Levels,8,0
+137,Evening Pilates,37,Saturday,13:30:00,90,25,19,Main Floor,Intermediate,10,0
+138,Zumba Party,3,Tuesday,18:30:00,60,12,11,Outdoor,Beginner,0,0
+139,Evening Pilates,27,Monday,17:00:00,90,30,30,Studio 2,Advanced,10,1
+140,Boxing Basics,35,Monday,07:30:00,75,14,0,Outdoor,Intermediate,5,0
+141,HIIT Blast,47,Monday,06:30:00,90,18,4,Main Floor,Beginner,5,1
+142,Morning Yoga,34,Friday,10:30:00,45,26,0,Main Floor,Beginner,5,1
+143,Spin Cycle,44,Sunday,06:30:00,90,9,4,Outdoor,All Levels,5,0
+144,CrossFit WOD,13,Sunday,17:30:00,60,20,7,Studio 1,Intermediate,0,1
+145,Morning Yoga,56,Sunday,08:00:00,45,18,17,Studio 2,All Levels,12,1
+146,Spin Cycle,21,Wednesday,14:00:00,50,8,2,Pool,Beginner,8,1
+147,Stretch & Relax,34,Monday,20:00:00,50,17,2,Outdoor,All Levels,0,1
+148,Spin Cycle,27,Wednesday,19:30:00,50,20,3,Pool,Beginner,12,1
+149,CrossFit WOD,51,Sunday,10:30:00,60,30,16,Main Floor,Advanced,12,1
+150,Spin Cycle,15,Monday,10:00:00,50,17,7,Studio 1,Advanced,10,1
+151,HIIT Blast,34,Wednesday,09:30:00,45,24,3,Main Floor,Intermediate,10,1
+152,Aqua Aerobics,4,Sunday,15:30:00,90,25,21,Studio 1,Advanced,0,1
+153,Evening Pilates,17,Tuesday,19:00:00,90,14,3,Main Floor,Advanced,5,1
+154,Morning Yoga,57,Sunday,08:00:00,45,25,10,Outdoor,Beginner,5,1
+155,Aqua Aerobics,45,Saturday,08:30:00,90,30,9,Pool,Beginner,0,0
+156,Evening Pilates,30,Friday,09:30:00,90,16,12,Studio 1,Advanced,8,1
+157,Zumba Party,10,Monday,17:30:00,90,13,0,Outdoor,Intermediate,5,1
+158,Strength Circuit,6,Saturday,06:00:00,45,22,14,Outdoor,Intermediate,0,0
+159,Aqua Aerobics,27,Saturday,15:30:00,50,22,7,Studio 2,Beginner,5,1
+160,Aqua Aerobics,21,Sunday,13:30:00,50,28,24,Studio 1,All Levels,5,1
+161,CrossFit WOD,8,Saturday,08:30:00,45,25,12,Studio 1,Beginner,0,1
+162,HIIT Blast,32,Monday,14:00:00,60,14,7,Studio 1,Beginner,0,1
+163,Morning Yoga,23,Saturday,14:30:00,60,23,23,Main Floor,Advanced,0,0
+164,HIIT Blast,55,Saturday,06:00:00,75,19,2,Pool,Intermediate,0,1
+165,HIIT Blast,49,Wednesday,07:30:00,50,26,4,Pool,Advanced,8,1
+166,Aqua Aerobics,45,Thursday,15:00:00,90,26,5,Studio 2,Beginner,5,1
+167,Stretch & Relax,56,Monday,18:30:00,60,10,5,Studio 2,Intermediate,0,1
+168,Evening Pilates,50,Wednesday,20:00:00,75,16,8,Outdoor,All Levels,5,1
+169,Evening Pilates,17,Wednesday,16:00:00,50,15,15,Outdoor,Beginner,0,0
+170,Morning Yoga,8,Tuesday,15:00:00,45,9,8,Studio 1,Advanced,0,1
+171,HIIT Blast,43,Sunday,12:00:00,45,19,18,Main Floor,Intermediate,5,1
+172,Boxing Basics,5,Tuesday,10:30:00,75,17,7,Pool,Advanced,0,1
+173,CrossFit WOD,50,Friday,16:00:00,75,12,3,Studio 1,Intermediate,8,1
+174,HIIT Blast,58,Friday,19:00:00,75,26,10,Studio 2,Intermediate,8,1
+175,Boxing Basics,33,Wednesday,08:30:00,75,20,7,Outdoor,All Levels,0,1
+176,Stretch & Relax,49,Tuesday,06:00:00,50,28,22,Studio 2,Intermediate,0,1
+177,Aqua Aerobics,27,Wednesday,09:00:00,75,23,1,Pool,Beginner,0,1
+178,Aqua Aerobics,30,Tuesday,10:30:00,90,18,17,Studio 1,Intermediate,0,1
+179,HIIT Blast,3,Monday,14:30:00,60,15,3,Outdoor,Beginner,5,1
+180,HIIT Blast,21,Friday,17:00:00,75,10,4,Studio 2,All Levels,12,1
+181,Aqua Aerobics,52,Wednesday,16:30:00,75,16,1,Studio 1,Beginner,12,1
+182,Strength Circuit,4,Tuesday,20:00:00,60,12,4,Main Floor,Beginner,0,1
+183,Spin Cycle,15,Thursday,06:00:00,60,16,14,Pool,Advanced,12,1
+184,Zumba Party,10,Monday,19:30:00,75,17,17,Main Floor,Beginner,10,1
+185,CrossFit WOD,51,Tuesday,18:00:00,90,22,8,Main Floor,All Levels,5,1
+186,Evening Pilates,60,Saturday,10:00:00,90,28,11,Studio 1,Intermediate,8,1
+187,Boxing Basics,23,Thursday,11:00:00,60,29,14,Studio 1,All Levels,8,0
+188,Spin Cycle,60,Thursday,10:00:00,60,15,15,Studio 2,All Levels,0,1
+189,Morning Yoga,21,Thursday,06:00:00,90,17,12,Pool,Intermediate,0,1
+190,CrossFit WOD,17,Tuesday,07:00:00,50,25,12,Main Floor,Advanced,12,1
+191,Zumba Party,44,Saturday,10:00:00,75,23,9,Main Floor,All Levels,0,1
+192,Morning Yoga,36,Friday,09:30:00,45,12,1,Studio 2,All Levels,5,1
+193,Aqua Aerobics,58,Tuesday,10:30:00,60,27,6,Main Floor,Intermediate,5,1
+194,Strength Circuit,32,Tuesday,18:00:00,60,30,25,Pool,Intermediate,12,0
+195,Evening Pilates,43,Friday,14:00:00,75,12,6,Main Floor,Beginner,0,1
+196,Strength Circuit,7,Thursday,13:00:00,50,10,9,Studio 2,Beginner,12,1
+197,Boxing Basics,42,Friday,10:00:00,60,22,20,Pool,All Levels,8,1
+198,Spin Cycle,32,Tuesday,13:30:00,90,8,4,Main Floor,Beginner,12,1
+199,Zumba Party,12,Tuesday,15:30:00,45,22,12,Main Floor,Intermediate,0,1
+200,CrossFit WOD,48,Tuesday,17:00:00,90,22,18,Outdoor,Beginner,8,1
+201,Boxing Basics,55,Sunday,12:00:00,90,14,10,Studio 2,Beginner,0,1
+202,Strength Circuit,8,Tuesday,12:30:00,75,22,17,Studio 2,Advanced,12,1
+203,Aqua Aerobics,58,Thursday,09:30:00,60,9,5,Main Floor,Advanced,0,1
+204,Zumba Party,54,Thursday,18:00:00,90,17,14,Studio 2,All Levels,12,1
+205,Aqua Aerobics,60,Monday,14:30:00,90,21,4,Studio 2,All Levels,10,0
+206,Strength Circuit,56,Saturday,17:30:00,75,20,7,Main Floor,Intermediate,10,1
+207,Stretch & Relax,11,Tuesday,12:00:00,45,15,11,Main Floor,Advanced,5,1
+208,Evening Pilates,23,Saturday,09:00:00,90,8,8,Outdoor,Beginner,0,1
+209,CrossFit WOD,49,Monday,18:30:00,90,18,4,Studio 1,All Levels,8,0
+210,HIIT Blast,47,Saturday,12:00:00,90,26,21,Studio 2,Advanced,8,1
+211,Morning Yoga,22,Tuesday,14:00:00,50,21,13,Outdoor,Beginner,0,1
+212,Zumba Party,27,Sunday,12:30:00,45,13,10,Main Floor,Advanced,0,1
+213,Strength Circuit,38,Thursday,08:30:00,60,19,17,Main Floor,Beginner,5,0
+214,Spin Cycle,48,Tuesday,18:00:00,50,25,25,Outdoor,Advanced,0,1
+215,Strength Circuit,14,Friday,07:30:00,75,30,3,Pool,Advanced,8,1
+216,Spin Cycle,42,Sunday,11:30:00,45,17,5,Main Floor,Beginner,12,0
+217,CrossFit WOD,43,Monday,18:00:00,75,18,9,Pool,All Levels,12,1
+218,Stretch & Relax,37,Saturday,15:30:00,75,12,9,Studio 1,Beginner,12,1
+219,Spin Cycle,45,Saturday,07:00:00,45,25,1,Studio 1,All Levels,10,1
+220,Morning Yoga,57,Monday,08:00:00,45,20,12,Studio 1,Intermediate,12,1
+221,HIIT Blast,17,Tuesday,08:00:00,60,17,4,Pool,Intermediate,0,1
+222,Zumba Party,13,Wednesday,16:30:00,50,17,3,Studio 1,Intermediate,12,0
+223,Zumba Party,34,Sunday,16:00:00,90,8,2,Pool,Beginner,0,0
+224,Boxing Basics,36,Wednesday,11:00:00,60,26,25,Pool,Beginner,8,1
+225,HIIT Blast,54,Tuesday,12:30:00,90,18,13,Pool,Beginner,10,1
+226,HIIT Blast,12,Friday,18:30:00,60,13,6,Main Floor,Intermediate,0,0
+227,Evening Pilates,15,Wednesday,17:00:00,45,29,23,Main Floor,Beginner,5,1
+228,Boxing Basics,47,Friday,15:30:00,75,13,8,Studio 1,Beginner,8,1
+229,Aqua Aerobics,50,Tuesday,09:30:00,45,25,3,Studio 1,Advanced,5,1
+230,Evening Pilates,57,Tuesday,16:30:00,60,23,3,Main Floor,Beginner,8,1
+231,Boxing Basics,47,Friday,20:00:00,50,24,14,Outdoor,Beginner,0,1
+232,Morning Yoga,54,Wednesday,09:30:00,60,22,15,Studio 1,Advanced,0,1
+233,Stretch & Relax,51,Saturday,06:00:00,90,16,5,Main Floor,All Levels,0,1
+234,Zumba Party,3,Monday,10:00:00,50,24,0,Main Floor,Advanced,12,1
+235,Spin Cycle,11,Sunday,08:00:00,45,8,4,Outdoor,All Levels,5,1
+236,Spin Cycle,60,Tuesday,10:30:00,90,13,11,Studio 1,Intermediate,5,0
+237,Stretch & Relax,25,Saturday,10:30:00,75,10,1,Pool,All Levels,0,1
+238,Zumba Party,55,Monday,11:30:00,45,18,2,Main Floor,Intermediate,0,1
+239,Aqua Aerobics,10,Thursday,15:00:00,60,15,4,Main Floor,All Levels,0,1
+240,Spin Cycle,30,Saturday,06:00:00,60,9,3,Main Floor,Advanced,0,0
+241,Zumba Party,17,Monday,12:30:00,60,12,7,Pool,Beginner,0,0
+242,Morning Yoga,15,Sunday,19:00:00,60,13,6,Studio 1,Intermediate,0,1
+243,CrossFit WOD,52,Tuesday,07:00:00,50,14,0,Main Floor,Beginner,5,1
+244,HIIT Blast,17,Thursday,06:30:00,50,30,1,Outdoor,Advanced,0,1
+245,Spin Cycle,43,Sunday,10:30:00,45,12,8,Studio 2,Advanced,0,1
+246,HIIT Blast,12,Saturday,11:30:00,90,29,21,Main Floor,All Levels,10,1
+247,CrossFit WOD,4,Thursday,14:30:00,50,11,6,Pool,All Levels,8,1
+248,CrossFit WOD,8,Friday,19:00:00,75,19,12,Outdoor,Advanced,5,1
+249,Morning Yoga,8,Saturday,19:30:00,50,13,1,Studio 1,All Levels,0,1
+250,Boxing Basics,50,Friday,13:00:00,50,20,15,Pool,Beginner,0,0
+251,HIIT Blast,12,Saturday,19:00:00,45,12,9,Pool,Intermediate,0,1
+252,CrossFit WOD,55,Wednesday,13:30:00,60,29,10,Pool,Advanced,5,1
+253,Zumba Party,30,Friday,14:30:00,90,24,10,Outdoor,Beginner,8,1
+254,HIIT Blast,52,Thursday,14:30:00,90,17,7,Outdoor,Advanced,5,0
+255,Strength Circuit,12,Friday,18:00:00,90,20,1,Pool,Advanced,0,1
+256,Aqua Aerobics,8,Friday,15:00:00,50,28,4,Studio 1,All Levels,8,1
+257,Evening Pilates,47,Wednesday,09:00:00,50,9,8,Outdoor,Intermediate,0,1
+258,Morning Yoga,42,Wednesday,08:30:00,90,20,14,Studio 2,Advanced,0,1
+259,Stretch & Relax,12,Friday,16:00:00,50,11,11,Studio 2,Advanced,0,0
+260,HIIT Blast,33,Sunday,14:30:00,45,12,11,Pool,Beginner,8,1
+261,Evening Pilates,11,Tuesday,16:00:00,45,16,5,Pool,Advanced,12,1
+262,Morning Yoga,33,Tuesday,16:30:00,75,28,16,Studio 1,Beginner,12,1
+263,Morning Yoga,7,Thursday,07:00:00,75,20,17,Main Floor,All Levels,0,1
+264,Boxing Basics,55,Monday,17:30:00,75,27,20,Studio 1,All Levels,0,0
+265,Morning Yoga,27,Tuesday,16:00:00,60,13,0,Studio 1,Advanced,5,0
+266,Stretch & Relax,6,Friday,11:30:00,50,11,2,Pool,Intermediate,8,1
+267,Evening Pilates,4,Tuesday,15:00:00,60,18,11,Studio 2,Beginner,0,1
+268,Strength Circuit,38,Thursday,13:30:00,75,21,17,Pool,All Levels,10,0
+269,Spin Cycle,57,Thursday,09:00:00,50,24,24,Studio 1,Advanced,10,1
+270,Spin Cycle,33,Monday,20:00:00,90,21,16,Main Floor,Beginner,0,1
+271,Stretch & Relax,47,Monday,18:00:00,75,20,3,Studio 2,Intermediate,5,1
+272,Evening Pilates,18,Wednesday,17:30:00,60,22,17,Studio 2,Advanced,0,1
+273,Spin Cycle,14,Tuesday,18:30:00,50,24,23,Outdoor,All Levels,10,1
+274,Stretch & Relax,27,Saturday,19:30:00,50,28,23,Studio 2,Intermediate,8,1
+275,Aqua Aerobics,13,Tuesday,16:00:00,50,26,22,Studio 2,Intermediate,5,0
+276,Strength Circuit,48,Saturday,15:30:00,75,20,2,Studio 1,Advanced,8,1
+277,Boxing Basics,22,Monday,20:30:00,75,12,7,Outdoor,Advanced,12,1
+278,Aqua Aerobics,38,Monday,09:30:00,50,20,2,Outdoor,Beginner,0,1
+279,Boxing Basics,14,Sunday,12:00:00,45,25,1,Outdoor,All Levels,5,1
+280,Morning Yoga,27,Wednesday,08:30:00,45,9,4,Pool,Intermediate,12,1
+281,Strength Circuit,12,Monday,19:30:00,45,18,12,Pool,All Levels,5,1
+282,Zumba Party,13,Thursday,20:30:00,75,8,7,Studio 1,Advanced,12,1
+283,HIIT Blast,44,Tuesday,13:30:00,75,14,9,Main Floor,All Levels,12,1
+284,Stretch & Relax,44,Sunday,08:30:00,50,15,15,Pool,Intermediate,8,1
+285,HIIT Blast,14,Saturday,13:30:00,45,30,2,Studio 2,Intermediate,8,0
+286,Aqua Aerobics,52,Sunday,19:30:00,75,13,4,Outdoor,Advanced,12,0
+287,Zumba Party,52,Saturday,19:00:00,75,24,2,Outdoor,Beginner,0,0
+288,Morning Yoga,7,Wednesday,20:00:00,90,19,12,Main Floor,All Levels,0,1
+289,Zumba Party,47,Friday,07:00:00,75,24,12,Studio 2,Advanced,8,1
+290,Aqua Aerobics,36,Tuesday,16:30:00,60,20,11,Studio 1,Intermediate,0,1
+291,HIIT Blast,11,Monday,17:30:00,90,11,5,Main Floor,Advanced,8,1
+292,Aqua Aerobics,37,Thursday,08:00:00,50,8,1,Studio 2,Intermediate,8,1
+293,Spin Cycle,34,Saturday,14:00:00,50,8,6,Main Floor,Advanced,8,1
+294,Spin Cycle,25,Wednesday,16:00:00,50,14,5,Outdoor,Beginner,5,1
+295,Spin Cycle,37,Saturday,14:30:00,90,26,25,Pool,Intermediate,5,0
+296,Morning Yoga,4,Wednesday,19:30:00,45,9,5,Studio 1,All Levels,12,1
+297,HIIT Blast,34,Friday,06:30:00,90,21,0,Studio 2,Advanced,0,1
+298,Boxing Basics,7,Friday,16:00:00,50,28,16,Studio 2,Advanced,8,1
+299,HIIT Blast,37,Saturday,12:30:00,45,11,1,Studio 2,Intermediate,10,0
+300,HIIT Blast,54,Friday,12:30:00,75,10,4,Outdoor,Beginner,12,1
