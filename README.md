@@ -114,7 +114,7 @@ gym-performance-analytics/
 ```
 ---
 Author [Kristina Avetisian]
-Lithuania · [Your LinkedIn URL] · [kristina.emilija.avetisian@gmail.com]
+Lithuania · www.linkedin.com/in/kristina-avetisian · [kristina.emilija.avetisian@gmail.com]
 
 ---
 
