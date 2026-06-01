@@ -30,11 +30,11 @@ _Impact_: Proposed a targeted upgrade campaign to Premium tiers, unlocking an 81
 2. The Payroll Crisis (Profitability)
 _Discovery_: Coach payroll consumes 64% of total revenue, vastly exceeding the 40% industry benchmark.
 
-_Insight_: With classes only 51% full, the gym is paying fixed costs for "empty rooms."
+3. With classes only 51% full, the gym is paying fixed costs for "empty rooms."
 
 _Recommendation_: Transition to a Variable Pay Model (Base + Per-Head Bonus) to align labor costs with attendance.
 
-3. The 9-Year Maintenance "Time Bomb" (Risk Management)
+4. The 9-Year Maintenance "Time Bomb" (Risk Management)
 _Discovery_: 100% of active equipment is overdue for service, with some assets in the high-traffic Functional Zone neglected for over 3,300 days.
 
 _Risk_: High liability and potential for catastrophic failure of a €914K asset base.
